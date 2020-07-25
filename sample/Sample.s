@@ -3,5 +3,5 @@ let _ = require( 'wimagereaderdxt' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
